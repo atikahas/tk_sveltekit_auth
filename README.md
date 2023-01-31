@@ -1,6 +1,6 @@
 # Auth with SvelteKit & Supabase
 
-This project was built for a tutorial which can be found on my [YouTube channel](https://youtube.com/@huntabyte).
+This project was built for a tutorial which can be found on [YouTube channel](https://youtube.com/@huntabyte).
 
 ## Quick Start
 
